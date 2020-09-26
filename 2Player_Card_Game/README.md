@@ -2,7 +2,7 @@ This project covers the design of a user interface, and the background storage /
 
 PROGRAM TASK
 
-Implement a set of components for a card game consisting of:
+Implementation consisting of:
 
 •	Deck – a stack of 0 or more cards, order of cards matters
 
